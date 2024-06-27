@@ -1,4 +1,15 @@
 nginx
+redis
+mongo
+mysql
+httpd
+php
+tomcat
+node
+oraclejdk
+openjdk
+python
+golang
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
