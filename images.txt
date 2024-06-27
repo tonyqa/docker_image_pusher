@@ -6,7 +6,6 @@ httpd
 php
 tomcat
 node
-oraclejdk
 openjdk
 python
 golang
